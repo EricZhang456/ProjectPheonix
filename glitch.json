@@ -1,0 +1,4 @@
+{
+  "install": "echo 'No install needed'",
+  "start": "bash .apache2/run-apache2.sh"
+}
